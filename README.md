@@ -7,7 +7,7 @@ This is the github repository created for the End to End Machine Learning projec
 This project has the goal to predict the valuation of used two-wheeler and used cars.<br>
 This project uses a Machine Learning model in the backend to predict the valuation of used two-wheeler and used cars.<br>
 We worked with the Kaggle dataset about used cars and their prices. <br>
-The models was evaluated on the basis of R<sup>2</sup>score <br>
+The models was evaluated on the basis of R<sup>2</sup>score <br>.
 
 
 Running the project on local machine: <br>
